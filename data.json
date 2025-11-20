@@ -1,0 +1,64 @@
+{
+    "grupo": {
+    "nombre": "GINFED",
+    "nombreCompleto": "Grupo de Investigación en Informática Educativa",
+    "universidad": "Universidad del Magdalena"
+    },
+    "datosBasicos": {
+    "creacion": "2006-12",
+    "departamento": "Magdalena",
+    "ciudad": "Santa Marta",
+    "lider": "Lucia Yesenia Bustamante Meza",
+    "clasificacion": "Grupo B",
+    "areaConocimiento": "Ciencias Sociales - Ciencias de la Educación",
+    "programaNacional": "Ciencia, Tecnología e Innovación en Educación",
+    "web": "https://investigacion.unimagdalena.edu.co/unidadesOrganizativas/24",
+    "email": "lbustamante@unimagdalena.edu.co",
+    "instagram": "https://www.instagram.com/ginfed_unimagdalena/"
+    },
+    "planEstrategico": {
+    "mision": "Generar conocimiento en torno al uso e implementación de las TIC en los procesos educativos, contribuyendo al mejoramiento de la calidad educativa en la región y el país.",
+    "vision": "Ser un grupo reconocido a nivel nacional e internacional en investigación e innovación educativa apoyada en tecnología.",
+    "objetivos": [
+        "Diseñar y ejecutar proyectos de investigación en innovación educativa.",
+        "Apoyar la formación del talento humano en educación e informática.",
+        "Promover la participación en redes académicas y proyectos colaborativos."
+    ]
+    },
+    "lineasInvestigacion": [
+    {
+        "titulo": "Educación, Desarrollo Humano e Inclusión",
+        "descripcion": "Investigación sobre estrategias pedagógicas inclusivas y procesos de desarrollo humano."
+    },
+    {
+        "titulo": "Tecnología Educativa e Innovación",
+        "descripcion": "Integración de las TIC para la innovación y mejoramiento de los procesos educativos."
+    }
+    ],
+    "integrantes": [
+    {
+        "nombre": "Lucia Yesenia Bustamante Meza",
+        "vinculacion": "Directora",
+        "horas": 8,
+        "inicio": "2015/6",
+        "fin": "Actual",
+        "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001392481"
+    },
+    {
+        "nombre": "David Guete García",
+        "vinculacion": "Fundador",
+        "horas": 4,
+        "inicio": "2006/12",
+        "fin": "Actual",
+        "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000787515"
+    },
+    {
+        "nombre": "Abelardo Pineda Rodríguez",
+        "vinculacion": "Fundador",
+        "horas": 10,
+        "inicio": "2006/12",
+        "fin": "2018/12",
+        "cvlac": "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000161756"
+    }
+    ]
+}
